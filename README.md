@@ -16,7 +16,7 @@ new_dict = {key:value + 2  for(key,value) in old_dict.items() }
 ## Project to solidify material learned: 
 
 ### Preview:
-![pic1](./pic1.png)
+![natocode](./natocode.png)
 
 
 ### NATO_Alphabet
